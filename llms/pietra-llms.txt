@@ -1,0 +1,20 @@
+# Pietra
+
+> Pietra is an AI-powered commerce platform for fast-growing consumer brands and creators. It unifies sourcing, production, fulfillment, logistics, marketing, and operations in a single platform — access to 40,000+ global suppliers and factories, integrated 3PL fulfillment, AI assistants for content and campaign automation, competitive intelligence, and e-commerce software to run a direct-to-consumer business. Founded 2019; backed by Andreessen Horowitz (a16z). No public developer API is published as of this profile.
+
+## About
+- [Website](https://www.pietrastudio.com/): Pietra commerce platform home.
+- [Pricing](https://www.pietrastudio.com/plans-and-pricing): Plans and pricing tiers.
+- [Blog](https://www.pietrastudio.com/blog): Company blog.
+
+## Product & Support
+- [Help Center](https://help.pietrastudio.com): Guides for sourcing, fulfillment, e-commerce software, and AI assistants.
+- [Sign Up](https://www.pietrastudio.com/sell-on-pietra/register): Create a Pietra brand/creator account.
+- [Sign In](https://creators.pietrastudio.com): Creator dashboard login.
+
+## Legal
+- [Privacy Policy](https://www.pietrastudio.com/privacy-policy)
+- [Terms of Service](https://docs.google.com/document/d/1xyqmahqh73t9l9xV2VixOFbcli58saOktL_Ppn2RWyE)
+
+## Notes
+- No public developer API, OpenAPI specification, SDK packages, MCP server, or developer portal were found on Pietra's public surface as of 2026-07-20.

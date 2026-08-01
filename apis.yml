@@ -1,7 +1,27 @@
 aid: pietra
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pietra.png
 name: Pietra
-description: Pietra is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Pietra is an AI-powered commerce platform for fast-growing consumer brands and
+  creators. It unifies sourcing, production, fulfillment, logistics, marketing,
+  and operations in a single platform — giving brands access to a network of
+  40,000+ global suppliers and factories, integrated third-party (3PL)
+  fulfillment infrastructure, AI assistants that automate content creation and
+  affiliate/influencer campaigns, competitive intelligence and social listening,
+  and e-commerce software to run a direct-to-consumer business. Founded in 2019
+  and backed by Andreessen Horowitz (a16z). As of this profile, Pietra does not
+  publish a public developer API or developer portal.
 url: https://raw.githubusercontent.com/api-evangelist/pietra/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +31,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Commerce
+- E-Commerce
+- Sourcing
+- Fulfillment
+- Logistics
+- Supply Chain
+- Consumer Brands
+- Creators
+- Artificial Intelligence
 apis: []
+common:
+- type: DomainSecurity
+  url: security/pietra-domain-security.yml
+- type: LLMsTxt
+  url: llms/pietra-llms.txt
+- type: Website
+  url: https://www.pietrastudio.com/
+- type: Support
+  url: https://help.pietrastudio.com
+- type: HelpCenter
+  url: https://help.pietrastudio.com
+- type: Blog
+  url: https://www.pietrastudio.com/blog
+- type: Pricing
+  url: https://www.pietrastudio.com/plans-and-pricing
+- type: SignUp
+  url: https://www.pietrastudio.com/sell-on-pietra/register
+- type: Login
+  url: https://creators.pietrastudio.com
+- type: PrivacyPolicy
+  url: https://www.pietrastudio.com/privacy-policy
+- type: TermsOfService
+  url: https://docs.google.com/document/d/1xyqmahqh73t9l9xV2VixOFbcli58saOktL_Ppn2RWyE
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
