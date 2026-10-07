@@ -67,6 +67,8 @@ tags_raw:
 - Artificial Intelligence
 apis: []
 common:
+- type: Plans
+  url: plans/pietra-plans-pricing.yml
 - type: DomainSecurity
   url: security/pietra-domain-security.yml
 - type: LLMsTxt
