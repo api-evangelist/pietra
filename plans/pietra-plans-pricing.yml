@@ -1,0 +1,30 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.pietrastudio.com/plans-and-pricing
+sources:
+- https://www.pietrastudio.com/plans-and-pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: false
+note: No numeric price is published on the pricing page; Pricing page lists three named plans but the
+  visible text shows no numeric prices; only 'Start free trial' / 'Book demo' calls to action.
+plan_count: 3
+plans:
+- name: Pietra
+  price_text: Pietra - The smartest way to start your e-commerce business.
+  period: none
+- name: Pietra With Priority Support
+  price_text: Pietra With Priority Support - The smartest way to start and scale your e-commerce business.
+  period: none
+- name: Pietra Premium
+  price_text: Pietra Premium - For scaling brands shipping 2000+ units per month
+  period: none
