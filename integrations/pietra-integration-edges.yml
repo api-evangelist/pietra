@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/pietra/integrations
+- https://n8n.io/integrations/pietra/
+- https://composio.dev/toolkits/pietra
+- https://monid.ai/tools/pietra
+checked:
+- https://composio.dev/toolkits/pietra
+- https://monid.ai/tools/pietra
+- https://n8n.io/integrations/pietra/
+- https://zapier.com/apps/pietra/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
