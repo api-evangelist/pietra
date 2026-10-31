@@ -64,6 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pietra is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Pietra is an AI-powered commerce platform for fast-growing consumer brands and creators. It unifies sourcing, production, fulfillment, logistics, marketing, and operations in a single platform — giving brands access to a network of 40,000+ global suppliers and factories, integrated third-party (3PL) fulfillment infrastructure, AI assistants that automate content creation and affiliate/influencer campaigns, competitive intelligence and social listening, and e-commerce software to run a direct-to-consumer business. Founded in 2019 and backed by Andreessen Horowitz (a16z). As of this profile, Pietra does not publish a public developer API or developer portal.
 
-Backed by: a16z
+**Areas:** Company · Commerce · E-Commerce · Sourcing · Fulfillment · Logistics · Supply Chain · Consumer Brand · Creators · Artificial Intelligence
+
+## Pietra on APIs.io
+
+Everything profiled for Pietra is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pietra/](https://apis.io/providers/pietra/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pietra Domain Security](https://apis.io/security/pietra/pietra-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Pietra Plans Pricing](https://apis.io/plans/pietra/pietra-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.pietrastudio.com/)
+- [Pricing](https://www.pietrastudio.com/plans-and-pricing)
+- [Sign up](https://www.pietrastudio.com/sell-on-pietra/register)
+- [Support](https://help.pietrastudio.com)
+- [Blog](https://www.pietrastudio.com/blog)
+- [Terms of service](https://docs.google.com/document/d/1xyqmahqh73t9l9xV2VixOFbcli58saOktL_Ppn2RWyE)
+- [Privacy policy](https://www.pietrastudio.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 21.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 76.3 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pietra/](https://apis.io/providers/pietra/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pietra: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pietra/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
